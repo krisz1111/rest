@@ -3,7 +3,7 @@
     { 
       "id": 1, 
       "waiter": "Laci",
-      "table": "Table 3"
+      "table": "Table 3",
       "submittedAt": "2020-03-05T13:23:30.342",
       "preparedAt": "2020-03-05T13:45:30.342",
       "lines": [
@@ -15,7 +15,7 @@
     { 
       "id": 2, 
       "waiter": "Tamas",
-      "table": "Table 2"
+      "table": "Table 2",
       "submittedAt": "2020-03-05T13:24:30.342",
       "preparedAt": "",
       "lines": [
@@ -26,7 +26,7 @@
     { 
       "id": 1, 
       "waiter": "Laci",
-      "table": "Table 3"
+      "table": "Table 3",
       "submittedAt": "2020-03-05T13:30:30.342",
       "preparedAt": "",
       "lines": [
@@ -38,7 +38,7 @@
     { 
       "id": 3, 
       "waiter": "Tamas",
-      "table": "Table 10"
+      "table": "Table 10",
       "submittedAt": "2020-03-05T13:25:30.342",
       "preparedAt": "",
       "lines": [
