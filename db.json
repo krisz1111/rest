@@ -9,7 +9,7 @@
       "lines": [
         {"name": "Kukorica Salata", "side": false, "instructions": "finom legyen"},
         {"name": "Porkolt", "side": false, "instructions": "hot"},
-        {"name": "Rice", "side": true, "instructions": ""}
+        {"name": "Rizs", "side": true, "instructions": ""}
       ]
     },
     {
@@ -42,7 +42,7 @@
       "submittedAt": "2020-03-05T13:25:30.342",
       "preparedAt": "",
       "lines": [
-        {"name": "Hering", "side": false, "instructions": ""},
+        {"name": "Hering", "side": false, "instructions": "Ez egy nagyon hosszu uzenet(31).012345670123456789012345678901234567890123456789012345678901234(100)"},
         {"name": "Lazac tesztaval", "side": false, "instructions": ""}
       ]
     }
