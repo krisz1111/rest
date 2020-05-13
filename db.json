@@ -34,7 +34,7 @@
         {"name": "Krumpli", "side": true, "instructions": "ne egessd oda"},
         {"name": "Palacsinta", "side": false, "instructions": ""}
       ]
-    }
+    },
     { 
       "id": 3, 
       "waiter": "Tamas",
@@ -45,7 +45,7 @@
         {"name": "Hering", "side": false, "instructions": ""},
         {"name": "Lazac tesztaval", "side": false, "instructions": ""},
       ]
-    },
+    }
 ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
