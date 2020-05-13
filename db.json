@@ -1,9 +1,52 @@
 {
   "orders": [
-    { "id": 1, "name": "test 1" },
-    { "id": 2, "name": "test 2" },
-    { "id": 3, "name": "test 3" }
-  ],
+    { 
+      "id": 1, 
+      "waiter": "Laci",
+      "table": "Table 3"
+      "submittedAt": "2020-03-05T13:23:30.342",
+      "preparedAt": "2020-03-05T13:45:30.342",
+      "lines": [
+        {"name": "Kukorica Salata", "side": false, "instructions": "finom legyen"},
+        {"name": "Porkolt", "side": false, "instructions": "hot"},
+        {"name": "Rice", "side": true, "instructions": ""}
+      ]
+    },
+    { 
+      "id": 2, 
+      "waiter": "Tamas",
+      "table": "Table 2"
+      "submittedAt": "2020-03-05T13:24:30.342",
+      "preparedAt": "",
+      "lines": [
+        {"name": "Makos Teszta", "side": false, "instructions": ""},
+        {"name": "Turos Teszta", "side": false, "instructions": "extra bacon"}
+      ]
+    },
+    { 
+      "id": 1, 
+      "waiter": "Laci",
+      "table": "Table 3"
+      "submittedAt": "2020-03-05T13:30:30.342",
+      "preparedAt": "",
+      "lines": [
+        {"name": "Csulok", "side": false, "instructions": "vajjal"},
+        {"name": "Krumpli", "side": true, "instructions": "ne egessd oda"},
+        {"name": "Palacsinta", "side": false, "instructions": ""}
+      ]
+    }
+    { 
+      "id": 3, 
+      "waiter": "Tamas",
+      "table": "Table 10"
+      "submittedAt": "2020-03-05T13:25:30.342",
+      "preparedAt": "",
+      "lines": [
+        {"name": "Hering", "side": false, "instructions": ""},
+        {"name": "Lazac tesztaval", "side": false, "instructions": ""},
+      ]
+    },
+],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
