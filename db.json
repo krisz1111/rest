@@ -2,7 +2,7 @@
   "orders": [
     {
       "id": "1",
-      "waiter": "Laci",
+      "waiter": "Lacko",
       "table": "Table 3",
       "sentToKitchenAt": "2020-03-05T13:23:30.342",
       "kitchenReadyAt": "2020-03-05T13:45:30.342",
