@@ -1,7 +1,7 @@
 {
   "orders": [
     {
-      "id": 1,
+      "id": "1",
       "waiter": "Laci",
       "table": "Table 3",
       "sentToKitchenAt": "2020-03-05T13:23:30.342",
@@ -13,7 +13,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": "2",
       "waiter": "Tamas",
       "table": "Table 2",
       "sentToKitchenAt": "2020-03-05T13:24:30.342",
@@ -24,7 +24,7 @@
       ]
     },
     {
-      "id": 1,
+      "id": "1",
       "waiter": "Laci",
       "table": "Table 3",
       "sentToKitchenAt": "2020-03-05T13:30:30.342",
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": "3",
       "waiter": "Tamas",
       "table": "Table 10",
       "sentToKitchenAt": "2020-03-05T13:25:30.342",
