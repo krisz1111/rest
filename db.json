@@ -3,7 +3,7 @@
     {
       "id": "1",
       "waiter": "Laz",
-      "table": "Table 3",
+      "table": "Table 1",
       "sentToKitchenAt": "2020-03-05 13:23:30",
       "kitchenReadyAt": "2020-03-05 13:45:30",
       "lines": [
@@ -38,7 +38,7 @@
     {
       "id": "4",
       "waiter": "Tamas",
-      "table": "Table 10",
+      "table": "Table 4",
       "sentToKitchenAt": "2020-03-05 13:25:30",
       "kitchenReadyAt": "",
       "lines": [
