@@ -24,7 +24,7 @@
       ]
     },
     {
-      "id": "1",
+      "id": "3",
       "waiter": "Laci",
       "table": "Table 3",
       "sentToKitchenAt": "2020-03-05 13:30:30",
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "id": "3",
+      "id": "4",
       "waiter": "Tamas",
       "table": "Table 10",
       "sentToKitchenAt": "2020-03-05 13:25:30",
