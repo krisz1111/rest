@@ -4,8 +4,8 @@
       "id": "1",
       "waiter": "Laz",
       "table": "Table 1",
-      "sentAt": "2020-03-05T13:23:30.334",
-      "readyAt": "2020-03-05T13:45:30",
+      "sentAt": "2020-05-24T15:10:30.334",
+      "readyAt": "2020-05-24T15:45:30",
       "lines": [
         {"name": "Kukorica Salata", "side": false, "instruction": "finom legyen"},
         {"name": "Porkolt", "side": false, "instruction": "hot"},
@@ -16,7 +16,7 @@
       "id": "2",
       "waiter": "Tamas",
       "table": "Table 2",
-      "sentAt": "2020-03-05T13:24:30",
+      "sentAt": "2020-05-24T09:43:30",
       "readyAt": "",
       "lines": [
         {"name": "Makos Teszta", "side": false, "instruction": ""},
